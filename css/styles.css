@@ -1,0 +1,92 @@
+body{
+	margin: 0 auto;
+	font-family: 'roboto';
+	font-weight: 300;
+	color: black;
+	background-color: #e6e6e6;
+}
+.main{
+	background-color: white;
+}
+h1,h2,h3,h4{
+	font-family: "roboto slab";
+}
+h1,h2,h3,h4,p,ul{
+	margin: 0;
+}
+h1,h2{
+	text-transform: uppercase;
+}
+p{
+	text-align: justify;
+	font-family: "roboto";
+}
+a{
+	background: #e6e6e6;
+    color: black;
+    padding: 0 .1rem;
+}
+a:hover{
+	background: #ffffff;
+    color: black;
+}
+.italic{
+	font-style: italic;
+}
+::selection{
+	background: black;
+	color: white;
+}
+.main h1{
+	text-align: center;
+	padding: 2rem 1rem;
+	font-weight: 300;
+	font-size: 2.5rem;
+	font-family: roboto;
+}
+h1 span{
+	text-decoration: underline;
+	font-size: 50%;
+}
+.main h2{
+	text-align: center;
+	font-size: 2rem;
+	background-color: #e6e6e6;
+	padding: 1rem 2rem;
+}
+.main h3{
+	font-size: 1.5rem;
+    font-weight: 400;
+    padding: 0 .5rem;
+}
+.underline{
+	text-decoration: underline;
+}
+.main ul.grandeSection{
+	list-style: none;
+	padding: 0;
+}
+ul.grandeSection div{
+	padding: 2rem 1.8rem; /*1.8 because there's a .2rem padding on children*/
+}
+ul.grandeSection li{
+	padding-top: .5rem;
+}
+ul.grandeSection li:first-child{
+	padding-top: 0;
+}
+ul.grandeSection p{
+	padding: .2rem .5rem;
+	font-size: 1rem;
+}
+li.periode > p{
+	display: none;
+}
+li.periode:after{
+	/*content: "+";*/
+}
+@media screen and (min-width: 800px) {
+	body{
+		max-width: 720px;
+	}
+}
