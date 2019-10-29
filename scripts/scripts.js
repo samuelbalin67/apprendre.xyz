@@ -1,4 +1,4 @@
-var acc = document.getElementsByClassName("periodeTitle");
+var acc = document.getElementsByClassName("accordeonTitle");
 var i;
 
 for (i = 0; i < acc.length; i++) {
