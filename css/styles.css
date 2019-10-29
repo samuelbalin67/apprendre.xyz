@@ -74,7 +74,7 @@ h1 span{
 	padding: 0;
 }
 ul.grandeSection div{
-	padding: 1rem .8rem; /*1.8 because there's a .2rem padding on children*/
+	padding: 1.5rem 1.3rem; /*1.3 because there's a .2rem padding on children*/
 }
 ul.grandeSection li{
 	padding-top: .5rem;
