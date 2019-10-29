@@ -100,7 +100,10 @@ li.periode:after{
 	background: orange;
 }
 .moyenage h2::after {
-	background: darkblue;
+	background: #2F415E;
+}
+.epoquemoderne h2::after {
+	background: #318Ce7;
 }
 .prehistoire > div {
 	border-left: 5px solid brown;
@@ -109,7 +112,10 @@ li.periode:after{
 	border-left: 5px solid orange;
 }
 .moyenage > div {
-	border-left: 5px solid darkblue;
+	border-left: 5px solid #2F415E;
+}
+.epoquemoderne > div {
+	border-left: 5px solid #318Ce7;
 }
 
 @media screen and (min-width: 800px) {
