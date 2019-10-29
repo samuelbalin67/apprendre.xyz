@@ -74,7 +74,7 @@ h1 span{
 	padding: 0;
 }
 ul.grandeSection div{
-	padding: 2rem 1.8rem; /*1.8 because there's a .2rem padding on children*/
+	padding: 1rem .8rem; /*1.8 because there's a .2rem padding on children*/
 }
 ul.grandeSection li{
 	padding-top: .5rem;
@@ -121,5 +121,8 @@ li.periode:after{
 @media screen and (min-width: 800px) {
 	body{
 		max-width: 720px;
+	}
+	ul.grandeSection div{
+		padding: 2rem 1.8rem; /*1.8 because there's a .2rem padding on children*/
 	}
 }
