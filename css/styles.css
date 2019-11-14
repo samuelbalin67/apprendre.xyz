@@ -98,6 +98,9 @@ ul.grandeSection p{
 li.periode > p{
 	display: none;
 }
+li.periode > p.shown{
+	display: block;
+}
 li.periode:after{
 	/*content: "+";*/
 }
