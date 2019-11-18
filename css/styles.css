@@ -63,15 +63,16 @@ h1 span{
 }
 .main h3{
 	font-size: 1.5rem;
-    font-weight: 400;
+	font-weight: 400;
+	padding: 0 .5rem;
 }
-.clickable{
+.main h3.clickable{
 	cursor: pointer;
 	background-color: #e6e6e6;
 	padding: .2rem .5rem;
 	transition: background-color .1s linear;
 }
-.clickable.active{
+.main h3.clickable.active{
 	cursor: pointer;
 	background-color: white;
 }
