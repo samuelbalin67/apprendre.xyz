@@ -64,12 +64,12 @@ h1 span{
 .main h3{
 	font-size: 1.5rem;
     font-weight: 400;
-    padding: 0 .5rem;
 }
 .clickable{
 	cursor: pointer;
 	background-color: #e6e6e6;
 	padding: .2rem .5rem;
+	transition: background-color .1s linear;
 }
 .clickable.active{
 	cursor: pointer;
@@ -92,17 +92,13 @@ ul.grandeSection li:first-child{
 	padding-top: 0;
 }
 ul.grandeSection p{
-	padding: .2rem .5rem;
 	font-size: 1rem;
 }
 li.periode > p{
-	display: none;
-}
-li.periode > p.shown{
-	display: block;
-}
-li.periode:after{
-	/*content: "+";*/
+	padding: 0 .5rem;
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height .1s linear;
 }
 /*underline titles / content borders*/
 .prehistoire h2::after {
