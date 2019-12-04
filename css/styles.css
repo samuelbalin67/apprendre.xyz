@@ -46,14 +46,14 @@ a:hover{
 }
 .main h1{
 	text-align: center;
-	padding: 2rem 1rem;
+	padding: 1.5rem 1rem;
 	font-weight: 300;
 	font-size: 2.5rem;
 	font-family: roboto;
 }
 h1 span{
-	text-decoration: underline;
-	font-size: 50%;
+	font-size: 40%;
+	display: block;
 }
 .main h2{
 	text-align: center;
@@ -133,5 +133,8 @@ li.periode > p{
 	}
 	ul.grandeSection div{
 		padding: 2rem 1.8rem; /*1.8 because there's a .2rem padding on children*/
+	}
+	.main h1{
+		padding: 2.5rem 1rem;
 	}
 }
