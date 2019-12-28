@@ -114,6 +114,9 @@ li.periode > p{
 .epoquemoderne h2::after {
 	background: #318Ce7;
 }
+.epoquecontemporaine h2::after {
+	background: #1F9B5A;
+}
 .prehistoire > div {
 	border-left: 5px solid brown;
 }
@@ -125,6 +128,9 @@ li.periode > p{
 }
 .epoquemoderne > div {
 	border-left: 5px solid #318Ce7;
+}
+.epoquecontemporaine > div {
+	border-left: 5px solid #1F9B5A;
 }
 
 @media screen and (min-width: 800px) {
