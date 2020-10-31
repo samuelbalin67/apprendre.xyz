@@ -47,7 +47,7 @@ div.main{
 }
 
 div.main a{
-	font-size: 68px;
+	font-size: 60px;
 	display: block;
 	text-align: center;
 }
@@ -74,6 +74,14 @@ div.main a:active{
 
 div.row{
 	width: 100%;
+}
+
+/*for very small devices, when a word takes more than
+the screen's length, this lets user scroll right to
+see the end of the word, and avoids horizontal scroll
+of the whole page*/
+div.row > div{
+	overflow: auto;
 }
 
 div.row.numbers{
