@@ -14,41 +14,6 @@
 
 	<body>
 
-	<!--    Made by Erik Terwan    -->
-<!--   24th of November 2015   -->
-<!--        MIT License        -->
-<nav role="navigation">
-  <div id="menuToggle">
-    <!--
-    A fake / hidden checkbox is used as click reciever,
-    so you can use the :checked selector on it.
-    -->
-    <input type="checkbox" />
-    
-    <!--
-    Some spans to act as a hamburger.
-    
-    They are acting like a real hamburger,
-    not that McDonalds stuff.
-    -->
-    <span></span>
-    <span></span>
-    <span></span>
-    
-    <!--
-    Too bad the menu has to be inside of the button
-    but hey, it's pure CSS magic.
-    -->
-    <ul id="menu">
-      <a href="#"><li>1 - Le son des lettres</li></a>
-      <a href="#"><li>2 - Les mariages</li></a>
-      <a href="#"><li>3 - Les lettres changeantes</li></a>
-	  <a href="#"><li>4 - Les mots à connaître</li></a>
-	  <a href="#"><li>5 - Lire un texte</li></a>
-    </ul>
-  </div>
-</nav>
-
 			<div class="main">
 
 				<h1>Le son des lettres et des mariages.</h1>
