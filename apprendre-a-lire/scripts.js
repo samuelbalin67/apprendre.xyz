@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	$('a').mousedown(function(e){
 		e.preventDefault();
-		content = this.innerHTML;
+		content = $(this).text();
 		var audio = new Audio('sounds/' + content + '.mp3');
 		audio.play();
 	});

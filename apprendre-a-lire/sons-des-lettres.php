@@ -133,15 +133,15 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">foufou</a>
+						<a href="#" class="word">f<span>ou</span>f<span>ou</span></a>
 					</div>
 
 					<div>
-						<a href="#" class="word">Louis</a>
+						<a href="#" class="word">L<span>ou</span>is</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">prout</a>
+						<a href="#" class="word">pr<span>ou</span>t</a>
 					</div>
 
 				</div>
@@ -153,11 +153,11 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">bonbon</a>
+						<a href="#" class="word">b<span>on</span>b<span>on</span></a>
 					</div>
 
 					<div>
-						<a href="#" class="word">decathlon</a>
+						<a href="#" class="word">decathl<span>on</span></a>
 					</div>
 
 				</div>
@@ -169,11 +169,11 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">boire</a>
+						<a href="#" class="word">b<span>oi</span>re</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">quoi</a>
+						<a href="#" class="word">qu<span>oi</span></a>
 					</div>
 
 				</div>
@@ -185,11 +185,11 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">payé</a>
+						<a href="#" class="word">p<span>ay</span>é</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">crayon</a>
+						<a href="#" class="word">cr<span>ay</span>on</a>
 					</div>
 
 				</div>
@@ -201,11 +201,11 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">voyou</a>
+						<a href="#" class="word">v<span>oy</span>ou</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">joyeux</a>
+						<a href="#" class="word">j<span>oy</span>eux</a>
 					</div>				
 
 				</div>
@@ -221,19 +221,19 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">graine</a>
+						<a href="#" class="word">gr<span>ai</span>ne</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">raisin</a>
+						<a href="#" class="word">r<span>ai</span>sin</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">baleine</a>
+						<a href="#" class="word">bal<span>ei</span>ne</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">neige</a>
+						<a href="#" class="word">n<span>ei</span>ge</a>
 					</div>
 
 				</div>
@@ -249,23 +249,23 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">dauphin</a>
+						<a href="#" class="word">d<span>au</span>phin</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">chaud</a>
+						<a href="#" class="word">ch<span>au</span>d</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">bateau</a>
+						<a href="#" class="word">bat<span>eau</span></a>
 					</div>
 
 					<div>
-						<a href="#" class="word">seau</a>
+						<a href="#" class="word">s<span>eau</span></a>
 					</div>
 
 					<div>
-						<a href="#" class="word">cerceau</a>
+						<a href="#" class="word">cerc<span>eau</span></a>
 					</div>
 
 				</div>
@@ -281,11 +281,11 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">peur</a>
+						<a href="#" class="word">p<span>eu</span>r</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">oeuf</a>
+						<a href="#" class="word"><span>oeu</span>f</a>
 					</div>
 
 				</div>
@@ -325,35 +325,35 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">matin</a>
+						<a href="#" class="word">mat<span>in</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">important</a>
+						<a href="#" class="word"><span>im</span>portant</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">symbole</a>
+						<a href="#" class="word">s<span>ym</span>bole</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">rein</a>
+						<a href="#" class="word">r<span>ein</span></a>
 					</div>
 
 					<div>
-						<a href="#" class="word">main</a>
+						<a href="#" class="word">m<span>ain</span></a>
 					</div>
 
 					<div>
-						<a href="#" class="word">faim</a>
+						<a href="#" class="word">f<span>aim</span></a>
 					</div>
 
 					<div>
-						<a href="#" class="word">aucun</a>
+						<a href="#" class="word">auc<span>un</span></a>
 					</div>
 
 					<div>
-						<a href="#" class="word">parfum</a>
+						<a href="#" class="word">parf<span>um</span></a>
 					</div>
 					
 				</div>
@@ -377,15 +377,15 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">enfant</a>
+						<a href="#" class="word"><span>en</span>f<span>an</span>t</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">embêter</a>
+						<a href="#" class="word"><span>em</span>bêter</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">lampe</a>
+						<a href="#" class="word">l<span>am</span>pe</a>
 					</div>
 
 				</div>
@@ -397,11 +397,11 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">chenille</a>
+						<a href="#" class="word">chen<span>ill</span>e</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">vanille</a>
+						<a href="#" class="word">van<span>ill</span>e</a>
 					</div>
 
 				</div>
@@ -413,11 +413,11 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">quille</a>
+						<a href="#" class="word"><span>qu</span>ille</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">quoi</a>
+						<a href="#" class="word"><span>qu</span>oi</a>
 					</div>
 
 				</div>
@@ -429,11 +429,11 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">éléphant</a>
+						<a href="#" class="word">élé<span>ph</span>ant</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">pharaon</a>
+						<a href="#" class="word"><span>ph</span>araon</a>
 					</div>
 
 				</div>
@@ -445,15 +445,15 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">chien</a>
+						<a href="#" class="word"><span>ch</span>ien</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">cherche</a>
+						<a href="#" class="word"><span>ch</span>er<span>ch</span>e</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">chaussures</a>
+						<a href="#" class="word"><span>ch</span>aussures</a>
 					</div>
 
 				</div>
@@ -465,11 +465,11 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">guidon</a>
+						<a href="#" class="word"><span>gu</span>idon</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">guérir</a>
+						<a href="#" class="word"><span>gu</span>érir</a>
 					</div>
 
 				</div>
@@ -481,15 +481,15 @@
 					</div>
 
 					<div>
-						<a href="#" class="word">montagne</a>
+						<a href="#" class="word">monta<span>gn</span>e</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">grignoter</a>
+						<a href="#" class="word">gri<span>gn</span>oter</a>
 					</div>
 
 					<div>
-						<a href="#" class="word">clignotant</a>
+						<a href="#" class="word">cli<span>gn</span>otant</a>
 					</div>
 
 				</div>
