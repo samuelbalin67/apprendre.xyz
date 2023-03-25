@@ -81,7 +81,7 @@ the screen's length, this lets user scroll right to
 see the end of the word, and avoids horizontal scroll
 of the whole page*/
 div.row > div{
-	overflow: auto;
+	overflow: hidden;
 }
 
 div.row.numbers{
